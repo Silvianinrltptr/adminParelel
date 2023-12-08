@@ -1,1 +1,1 @@
-# adminParelel
+# adminParalel
